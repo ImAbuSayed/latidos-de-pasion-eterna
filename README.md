@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Latidos de pasión eterna |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-pasion-eterna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Latidos de pasión eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-pasion-eterna/) |
+| **Get License** | [License this song: Latidos de pasión eterna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-pasion-eterna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Subproject commit 4166e6462814d692e3b6db4712439c065bf0bf15
-> Tu mirada me busca en medio de la sala
-> Llevas un piquete que a la luna me iguala
-> Siento que el tiempo se frena cuando te acercas
+> Late night, city lights, te quiero sentir
+> Tu cuerpo llama, no puedo resistir
+> El ritmo late, nos vamos a perder
+> Latidos de pasión eterna, mujer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
